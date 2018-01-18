@@ -3,4 +3,5 @@ def using_until
         #your code here
     until levitation_force == 6
       puts "Wingardium"
+    end
 end
